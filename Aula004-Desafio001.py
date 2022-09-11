@@ -1,0 +1,6 @@
+print('')
+print('========= AULA 004 - DESAFIO 001 ==========')
+print (' ')
+nome=input ('Qual é o seu nome? ')
+print('Olá',nome,', prazer em te conhecer!')
+print (' ')
