@@ -1,0 +1,10 @@
+print('==================== Minha solução ====================')
+name = input('Digite seu nome: ')
+print('É um prazer te conhecer,', name, '!')
+print('')
+print('')
+
+print('=================== Soução do Curso ===================')
+name = input('Digite seu nome: ')
+print('É um prazer te conhecer, {} !'.format(name))
+print('')
