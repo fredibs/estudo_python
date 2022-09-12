@@ -1,0 +1,13 @@
+print('')
+print('============= Exercio 003 =============')
+#print('TIPOS PRIMITIVOS')
+#print('PRINCIPAIS TIPOS: int float boll str')
+print('')
+n1 = int(input('Digite o primeiro número:'))
+n2 = int(input('Digite o segundo número:'))
+sn = n1 + n2
+#print('A soma dos números é {}' .format(sn))
+print('A soma entre o primeiro número: {} e o segundo: {} é igual a: {}'.format(n1, n2, sn))
+print('')
+print('============= Exercio 003 =============')
+print('')
