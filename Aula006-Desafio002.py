@@ -1,0 +1,12 @@
+print('')
+print('============= AULA 006 - DESAFIO 001 =============')
+print('TIPOS PRIMITIVOS')
+print('PRINCIPAIS TIPOS: int float boll str')
+print('')
+n1 = int(input('Digite o primeiro número:'))
+n2 = int(input('Digite o segundo número:'))
+sn = n1+n2
+print('A soma dos números é {}' .format(sn))
+print('')
+print('========= FIM DA AULA 006 - DESAFIO 001 =========')
+print('')
